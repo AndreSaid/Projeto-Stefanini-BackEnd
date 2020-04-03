@@ -1,5 +1,7 @@
 # Treinamento Stefanini
 
+Aluno: Andre Said
+
 Nessa primeira fase do Treinamento serão abordados os assuntos relacionadosa a:
 
 Slides disponiveis em [Slides](https://github.com/Jpmmdf/projeto-web-base/blob/master/src/main/resources/Treinamento-Parte2.pptx)
